@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "0": {
+        "id": 2,
+        "username": "auer"
+      },
+      "1": {
+        "id": 8,
+        "username": "maverick"
+      },
+      "2": {
+        "id": 1,
+        "username": "pouros"
+      },
       "id": 1,
       "title": "Grapefruit",
       "subtitle": "A book of Instruction and Drawings.",
@@ -15,6 +27,18 @@
         {
           "id": 8,
           "username": "maverick"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -214,6 +238,10 @@
         {
           "id": 10,
           "username": "macejkovic"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     }
